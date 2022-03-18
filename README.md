@@ -1,6 +1,6 @@
 #  InfinityExpandableTableView
 
-![](Simulator Screen Recording.gif)
+![](SimulatorScreenRecording.gif)
 
 一开始我只是想显示一些比较复杂的, 不规则的 json 数据, 以树的形式展示在 UITableView 上, 但是没有找到比较适合我的轮子, 于是就自己写了一个.
 
